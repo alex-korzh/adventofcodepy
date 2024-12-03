@@ -33,8 +33,3 @@ def solve2():
         sm *= j
         s += sm
     print(s)
-
-
-if __name__ == "__main__":
-    solve()
-    solve2()

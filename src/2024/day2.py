@@ -46,7 +46,3 @@ def solve2():
                     sn += 1
                     break
     print(sn)
-
-
-if __name__ == "__main__":
-    solve2()
